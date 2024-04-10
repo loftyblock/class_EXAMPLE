@@ -11,4 +11,4 @@
 ### 5) Open and merge a pull request
 ### 6) Download/fork pre-made code from a repository on GitHub
 ### 7) Edit downloaded code
-### 8) Re-upload edited code to their forked repository
+### 8) Re-upload edited code to their forked repository  
